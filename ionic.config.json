@@ -1,5 +1,7 @@
 {
-    "name": "kings School",
-    "integrations": {},
-    "type": "angular"
+  "name": "kings School",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
 }
